@@ -1,6 +1,5 @@
 name: go-test-pipeline
 on: push
-
 jobs:
   test:
     runs-on: ubuntu-latest
